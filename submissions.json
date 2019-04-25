@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "courseId": "1",
+    "exerciseId": "4",
+    "content": "this is my submission file",
+    "userName": "rahul"
+  },
+  {
+    "id": 2,
+    "courseId": "1",
+    "exerciseId": "6",
+    "content": "this is my submission file",
+    "userName": "yogendra"
+  },
+  {
+    "id": 3,
+    "courseId": "1",
+    "exerciseId": "6",
+    "content": "this is my submission file",
+    "userName": "jagan"
+  },
+  {
+    "id": 4,
+    "courseId": "1",
+    "exerciseId": "3",
+    "content": "this is my submission file",
+    "userName": "satyam"
+  }
+]

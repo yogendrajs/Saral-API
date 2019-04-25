@@ -1,0 +1,329 @@
+{
+  "1": [
+    {
+      "id": 3,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "name": "Its Me Yogi",
+      "content": " I want to help everybody in even good circumstances",
+      "hint": "i don't know about that ",
+      "id": "4",
+      "courseId": "1"
+    },
+    {
+      "id": 5,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 6,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 7,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 8,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 9,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 10,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 11,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 12,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 13,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 14,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 15,
+      "courseId": 1,
+      "name": "Introduction1",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 16,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 19,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 33,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 36,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 37,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 38,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 40,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 44,
+      "courseId": 1,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "name": "yogendra",
+      "content": "it is for sure",
+      "hint": "no hint for you",
+      "courseId": "1",
+      "id": 45
+    },
+    {
+      "name": "yogi",
+      "content": "it is for sure",
+      "hint": "no hint for you",
+      "courseId": "1",
+      "id": 46
+    },
+    {
+      "name": "Express",
+      "content": "it is for sure",
+      "hint": "no hint for you",
+      "courseId": "1",
+      "id": 47
+    },
+    {
+      "name": "NodeJs",
+      "content": "it is for sure",
+      "hint": "no hint for you",
+      "courseId": "1",
+      "id": 48
+    },
+    {
+      "name": "JavaScript",
+      "content": "it is for sure",
+      "hint": "no hint for you",
+      "courseId": "1",
+      "id": 49
+    },
+    {
+      "name": "Programming Language",
+      "content": "it is for sure",
+      "hint": "no hint for you",
+      "courseId": "1",
+      "id": 50
+    },
+    {
+      "name": "yogi",
+      "content": "sahi hai",
+      "hint": "hint etc",
+      "courseId": "1",
+      "id": 26
+    },
+    {
+      "name": "Yogendra ",
+      "content": "https://github.com/yogendra3236/",
+      "hint": "This is my github profile",
+      "courseId": "1",
+      "id": 26
+    }
+  ],
+  "2": [
+    {
+      "id": 1,
+      "courseId": 2,
+      "name": "Introduction (ek naya naam)",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 2,
+      "courseId": 2,
+      "name": "Task 1",
+      "content": "Ek page pe <h1> aur <h2> ka use kar ke NavGurukul likho aur <h2> mein *Learn to Help*.",
+      "hint": "w3 schools pe jaake <h1> aur <h2> tag ke baare samjho."
+    },
+    {
+      "id": 17,
+      "courseId": 2,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 20,
+      "courseId": 2,
+      "name": "Introduction1",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 42,
+      "courseId": 2,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    }
+  ],
+  "3": [
+    {
+      "id": 18,
+      "courseId": 3,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 21,
+      "courseId": 3,
+      "name": "Introduction1",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "name": "satyam ",
+      "content": "https://github.com/yogendra3236/",
+      "hint": "This is my github profile",
+      "courseId": "3",
+      "id": 51
+    },
+    {
+      "name": "its me ",
+      "content": "https://github.com/yogendra3236/",
+      "hint": "This is my github profile",
+      "courseId": "3",
+      "id": 52
+    }
+  ],
+  "4": [
+    {
+      "id": 22,
+      "courseId": 4,
+      "name": "Introduction1",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 23,
+      "courseId": 4,
+      "name": "Introduction1",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 41,
+      "courseId": 4,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "id": 43,
+      "courseId": 4,
+      "name": "Introduction",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    }
+  ],
+  "5": [
+    {
+      "id": 24,
+      "courseId": 5,
+      "name": "Introduction1",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+      "name": "Yogendra ",
+      "content": "https://github.com/yogendra3236/",
+      "hint": "This is my github profile",
+      "courseId": "5",
+      "id": 26
+    }
+  ],
+  "6": [
+    {
+      "id": 25,
+      "courseId": 6,
+      "name": "Introduction1",
+      "content": "Iss exercise mein aapne yeh sab karna hai.",
+      "hint": "Hello! Yeh ek hint hai!!!!"
+    }
+  ]
+}

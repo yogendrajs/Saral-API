@@ -1,0 +1,37 @@
+[
+    {
+        "id": 3,
+        "courseId": 1,
+        "name": "HTML-CSS",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+        "id": 4,
+        "courseId": 2,
+        "name": "PythonAPI",
+        "content": "Iss exercise me aapne API banana hai",
+        "hint": "khali hai"
+    },
+    {
+        "id": 5,
+        "courseId": 3,
+        "name": "Web-Scraping",
+        "content": "Iss exercise me appne scraping karna sikhna hai",
+        "hint": "task 14, 15 me hint hai"
+    },
+    {
+        "id": 6,
+        "courseId": 4,
+        "name": "Android",
+        "content": "Iss exercise me aapne Android app banana hai",
+        "hint": "Regular expression likhen"
+    },
+    {
+        "id": 7,
+        "courseId":5,
+        "name": "Problem-Solving",
+        "content": "Iss exercise me aapne problem solving ability learn karna hai",
+        "hint": "As you're new, you will not be given any hint :P"
+    }
+]
