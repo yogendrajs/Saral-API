@@ -12,4 +12,4 @@ To install express, run the following command on your terminal in Linux.
 sudo apt-get install npm
 npm install express --save
 ```
-To run your code, first open your server port using `node file_name.js` in terminal. And, then you can apply the basic CRUD operations.
+To run your code, first open your server port using `node file_name.js` in your working directory in terminal. And, then you can apply the basic CRUD operations.
