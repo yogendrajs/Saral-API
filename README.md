@@ -1,7 +1,6 @@
 # Saral-Requests-API
 
-SARAL is the eLearning platform of NavGurukul. Which is available on website saral.navgurukul.org created a CLI based app where users can access the content of saral using the terminal. So basically I used Requist ( library in Python used for making a http requests ) This course in we are learn how to work request module in python and how to call API and how do APIs work. In python3 through requests library, fetching data from saral/navgurukul website
-
+SARAL is the eLearning platform of NavGurukul, which is available on website https://saral.navgurukul.org. I have created a CLI based app where users can access the content of saral using the terminal.
 
 Here I implemented a basic version of an eLearning API, using express framework of Node JS. The users can manage and create different courses, exercises and also manage submissions, using basic CRUD operations.
 
